@@ -70,14 +70,14 @@
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
- <Reference Include="KDTree">
- <HintPath>C:/Users/Kyle/Documents/GitHub/LD34/Assets/Plugins/ProCore/ProBuilder/Classes/ClassesLib/KDTree.dll</HintPath>
+ <Reference Include="ProBuilderCore-Unity4">
+ <HintPath>C:/Users/Kyle/Documents/GitHub/LD34/Assets/Plugins/ProCore/ProBuilder/Classes/ProBuilderCore-Unity4.dll</HintPath>
  </Reference>
  <Reference Include="ProBuilderMeshOps-Unity4">
  <HintPath>C:/Users/Kyle/Documents/GitHub/LD34/Assets/Plugins/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity4.dll</HintPath>
  </Reference>
- <Reference Include="ProBuilderCore-Unity4">
- <HintPath>C:/Users/Kyle/Documents/GitHub/LD34/Assets/Plugins/ProCore/ProBuilder/Classes/ProBuilderCore-Unity4.dll</HintPath>
+ <Reference Include="KDTree">
+ <HintPath>C:/Users/Kyle/Documents/GitHub/LD34/Assets/Plugins/ProCore/ProBuilder/Classes/ClassesLib/KDTree.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

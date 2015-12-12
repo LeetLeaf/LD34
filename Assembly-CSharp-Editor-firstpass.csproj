@@ -120,6 +120,18 @@
  <Reference Include="UnityEditor.TreeEditor">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
  </Reference>
+ <Reference Include="ProBuilderCore-Unity4">
+ <HintPath>C:/Users/Kyle/Documents/GitHub/LD34/Assets/Plugins/ProCore/ProBuilder/Classes/ProBuilderCore-Unity4.dll</HintPath>
+ </Reference>
+ <Reference Include="ProBuilderMeshOps-Unity4">
+ <HintPath>C:/Users/Kyle/Documents/GitHub/LD34/Assets/Plugins/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity4.dll</HintPath>
+ </Reference>
+ <Reference Include="KDTree">
+ <HintPath>C:/Users/Kyle/Documents/GitHub/LD34/Assets/Plugins/ProCore/ProBuilder/Classes/ClassesLib/KDTree.dll</HintPath>
+ </Reference>
+ <Reference Include="ProBuilderEditor-Unity4">
+ <HintPath>C:/Users/Kyle/Documents/GitHub/LD34/Assets/Plugins/ProCore/ProBuilder/Editor/ProBuilderEditor-Unity4.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
@@ -131,18 +143,6 @@
  </Reference>
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="KDTree">
- <HintPath>C:/Users/Kyle/Documents/GitHub/LD34/Assets/Plugins/ProCore/ProBuilder/Classes/ClassesLib/KDTree.dll</HintPath>
- </Reference>
- <Reference Include="ProBuilderEditor-Unity4">
- <HintPath>C:/Users/Kyle/Documents/GitHub/LD34/Assets/Plugins/ProCore/ProBuilder/Editor/ProBuilderEditor-Unity4.dll</HintPath>
- </Reference>
- <Reference Include="ProBuilderMeshOps-Unity4">
- <HintPath>C:/Users/Kyle/Documents/GitHub/LD34/Assets/Plugins/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity4.dll</HintPath>
- </Reference>
- <Reference Include="ProBuilderCore-Unity4">
- <HintPath>C:/Users/Kyle/Documents/GitHub/LD34/Assets/Plugins/ProCore/ProBuilder/Classes/ProBuilderCore-Unity4.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
